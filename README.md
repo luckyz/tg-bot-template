@@ -3,7 +3,7 @@
 Template for Telegram Bot.
 
 
-## Quick start
+## Quickstart
 You must run ```python setup.py``` to create environment variables needed by the bot, or create a ```.env``` file and defining the following variables:
 
 - ```TELEGRAM_BOT=<telegram_bot_token>```
